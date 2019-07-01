@@ -1,0 +1,20 @@
+{
+  "name": "video-chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "budo index.js:bundle.js --live"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "budo": "^11.6.2",
+    "watchify": "^3.11.1"
+  },
+  "dependencies": {
+    "getusermedia": "^2.0.1",
+    "simple-peer": "^9.3.0"
+  }
+}

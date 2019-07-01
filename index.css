@@ -1,0 +1,18 @@
+body{background-color:black}
+
+.center{
+    margin:auto;
+    text-align:left;
+    color:white;
+    font-size:15px;
+    width:500px;
+  border:1px solid white
+}
+
+textarea{
+    margin:20px;
+}
+
+.webcam{
+width:500px;
+}
